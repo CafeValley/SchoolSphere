@@ -1,0 +1,33 @@
+
+@media print {
+td , th, strong{
+font-size: 24px;
+font-family:'Times New Roman',Times,serif;
+}
+  footer {
+  font-size: 20px;
+  text-align: center;
+}
+}
+
+@media print {
+font.leftfont {
+font-size: 20px;
+font-family:'Times New Roman',Times,serif;
+}
+font.rightfont {
+font-size: 26px;
+font-family:'Times New Roman',Times,serif;
+}
+}
+@media print {
+h2{
+font-size: 08px;
+font-family:'Times New Roman',Times,serif;
+}}
+@media print {
+  footer {
+  font-size: 20px;
+  text-align: center;
+}
+}
